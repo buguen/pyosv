@@ -20,4 +20,35 @@ else:
     sys.exit(0)
 display, start_display, add_menu, add_function_to_menu = init_display()
 display.DisplayShape(aResShape, update=True)
-start_display()
+
+f = display.View.View().GetObject()
+
+
+def export_to_PDF(event=None):
+    f.Export('torus_export.pdf', Graphic3d_EF_PDF)
+
+
+def export_to_SVG(event=None):
+    f.Export('torus_export.svg', Graphic3d_EF_SVG)
+
+
+def export_to_PS(event=None):
+    f.Export('torus_export.ps', Graphic3d_EF_PostScript)
+
+
+def export_to_EnhPS(event=None):
+    f.Export('torus_export_enh.ps', Graphic3d_EF_EnhPostScript)
+
+
+def export_to_TEX(event=None):
+    f.Export('torus_export.tex', Graphic3d_EF_TEX)
+
+
+if __name__ == '__main__':
+    add_menu('screencapture')
+    add_function_to_menu('screencapture', export_to_PDF)
+    add_function_to_menu('screencapture', export_to_SVG)
+    add_function_to_menu('screencapture', export_to_PS)
+    add_function_to_menu('screencapture', export_to_EnhPS)
+    add_function_to_menu('screencapture', export_to_TEX)
+    start_display()
