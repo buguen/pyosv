@@ -3,3 +3,6 @@
 
 
 
+# Installing pythonocc from anaconda
+
+conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
