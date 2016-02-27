@@ -1,5 +1,6 @@
 # Python tools for Open Source Vehicle (OSV) 
 
+![OSV Rennes](doc/images/TabbyRennes.png)
 ![Git for Hardware](doc/images/git.png)
 ![Electric Vehicle](doc/images/AC-synoptic.png)
 
