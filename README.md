@@ -91,9 +91,11 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ### Autonomous Vehicle
 
-    [TensorFlow : Open Source Software Library for Machine Intelligence ](https://www.tensorflow.org/)
-    [Theano](http://deeplearning.net/software/theano/)
-    [Nvidia Automotive](http://www.nvidia.com/object/drive-automotive-technology.html)
+[TensorFlow : Open Source Software Library for Machine Intelligence ](https://www.tensorflow.org/)
+
+[Theano](http://deeplearning.net/software/theano/)
+
+[Nvidia Automotive](http://www.nvidia.com/object/drive-automotive-technology.html)
 
 ## Other related projects 
 
