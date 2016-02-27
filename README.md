@@ -85,4 +85,4 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ## Upcoming Event
 
-BootCamp OSV 24-25-25 April  
+BootCamp OSV 27-28-29 April, [Pôle Numérique Beaulieu](https://campusnumerique.ueb.eu/Rennes_Est.html), Rennes  
