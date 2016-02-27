@@ -3,10 +3,10 @@
 [Open Source Vehicle : Start building it](https://vimeo.com/77204604)
 
 ![OSV Rennes](doc/images/TabbyRennes.png)
-*Tabby Evo OSV platform in Rennes (France)*
+*Tabby Evo OSV platform in [Rennes](https://www.youtube.com/watch?v=FPVHDXOOg88) (France)*
 
 ![PythonOCC Vizualization](doc/images/tabbyocc.png)
-*OSV STEP file vizualisation with pythonocc*
+*OSV STEP file vizualisation with [pythonocc](http://www.pythonocc.org/)  *
 
 # For installing pythonocc from anaconda
 
