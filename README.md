@@ -2,6 +2,7 @@
 
 [Open Source Vehicle : Start building it](https://vimeo.com/77204604)
 ![OSV Rennes](doc/images/TabbyRennes.png)
+![PythonOCC Vizualization](doc/images/tabbyocc.png)
 ![Git for Hardware](doc/images/git.png)
 ![Electric Vehicle](doc/images/AC-synoptic.png)
 
