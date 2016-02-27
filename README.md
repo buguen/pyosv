@@ -4,7 +4,7 @@ The purpose of this git repository is to gather **information and tools** relate
 
 It is also about whatever could be built around this platform, in an as large as possible collaborative endeavour. 
 
-Feel free to fork, and to pull request, whatever you think could be related or useful .
+Feel free to contribute in forking, and pull requesting, whatever you think could be related or useful .
 
 # Around Open Source Vehicle (OSV) 
 
