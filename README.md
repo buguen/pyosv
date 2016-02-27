@@ -1,6 +1,6 @@
 # Python tools for Open Source Vehicle (OSV) 
 
-![Open Source Vehicle : Start building it](https://vimeo.com/77204604)
+[Open Source Vehicle : Start building it](https://vimeo.com/77204604)
 ![OSV Rennes](doc/images/TabbyRennes.png)
 ![Git for Hardware](doc/images/git.png)
 ![Electric Vehicle](doc/images/AC-synoptic.png)
