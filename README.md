@@ -33,6 +33,12 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Genivi Alliance](http://www.genivi.org/)
 
+### V2V Communication
+
+### Sensors
+
+### GIS 
+
 ## Other related projects 
 
 [Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
