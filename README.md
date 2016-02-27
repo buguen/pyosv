@@ -19,3 +19,4 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Data Exchange with ISO 10303](http://stepcode.org)
 
+[Battery Winston LiFePO4](http://www.ev-power.eu/LiFeYPO4-batteries-12V-1-1/)
