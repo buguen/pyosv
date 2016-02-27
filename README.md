@@ -3,7 +3,7 @@
 [Open Source Vehicle : Start building it](https://vimeo.com/77204604)
 
 ![OSV Rennes](doc/images/TabbyRennes.png)
-*Tabby Evo OSV platform in Rennes*
+*Tabby Evo OSV platform in [Rennes](https://www.youtube.com/watch?v=FPVHDXOOg88)*
 
 ![PythonOCC Vizualization](doc/images/tabbyocc.png)
 *OSV STEP file vizualisation with pythonocc*
