@@ -1,14 +1,20 @@
 # Information and Tools around Open Source Vehicle (OSV) 
 
 [Open Source Vehicle : Start building it](https://vimeo.com/77204604)
-![OSV Rennes](doc/images/TabbyRennes.png)
-![PythonOCC Vizualization](doc/images/tabbyocc.png)
-![Git for Hardware](doc/images/git.png)
-![Electric Vehicle](doc/images/AC-synoptic.png)
 
-# Installing pythonocc from anaconda
+![OSV Rennes](doc/images/TabbyRennes.png)
+*Tabby Evo OSV platform in Rennes*
+
+![PythonOCC Vizualization](doc/images/tabbyocc.png)
+*OSV STEP file vizualisation with pythonocc*
+
+# For installing pythonocc from anaconda
 
 conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
+
+![Git for Hardware](doc/images/git.png)
+*Let's try git for open hardware !* 
+
 
 
  
@@ -22,11 +28,17 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ### Mechanics 
 
+
+#### Handling STEP files 
+
+[Data Exchange with ISO 10303](http://stepcode.org)
+
 [A system for extracting Product Features from CAD Models - A STEP Approach"](http://www.m-hikari.com/ces/ces2008/ces1-4-2008/deshpandeCES1-4-2008.pdf)
 
 ### Energy 
 
-[Data Exchange with ISO 10303](http://stepcode.org)
+
+![Electric Vehicle](doc/images/AC-synoptic.png)
 
 [Battery Winston LiFePO4](http://www.ev-power.eu/LiFeYPO4-batteries-12V-1-1/)
 
