@@ -53,6 +53,10 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ### V2V Communications
 
+#### Wireless Access in Vehicular Environment (WAVE)
+
+[IEEE 802.11.p Physical Layer](http://www.iaeng.org/publication/WCECS2014/WCECS2014_pp691-698.pdf) 
+
 ### Vehicular Networks 
 
 [La dissémination de contenus dans les réseaux véhiculaires (Thèse F.Mezghani) ](https://oatao.univ-toulouse.fr/14471/1/Mezghani_Farouk_INPT.pdf)
