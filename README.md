@@ -55,7 +55,11 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 #### Wireless Access in Vehicular Environment (WAVE)
 
+[Dedicated Short Range Communication](http://www.cvt-project.ir/Admin/Files/eventAttachments/109.pdf)
+
 [IEEE 802.11.p Physical Layer](http://www.iaeng.org/publication/WCECS2014/WCECS2014_pp691-698.pdf) 
+
+[About 802.11.p](doc/communications/80211p.md)
 
 ### Vehicular Networks 
 
