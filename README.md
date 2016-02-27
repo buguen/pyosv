@@ -35,6 +35,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [IoTivity](https://blogs.s-osg.org/iotivity-ready-automotive/?utm_source=twitterfeed&utm_medium=twitter)
 
+[Tizen The Os of Everything](https://www.tizen.org/fr)
+
 ### V2V Communication
 
 ### Sensors
