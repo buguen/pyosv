@@ -33,6 +33,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Genivi Alliance](http://www.genivi.org/)
 
+[IoTivity](https://blogs.s-osg.org/iotivity-ready-automotive/?utm_source=twitterfeed&utm_medium=twitter)
+
 ### V2V Communication
 
 ### Sensors
