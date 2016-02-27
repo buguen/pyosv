@@ -6,7 +6,7 @@
 *Tabby Evo OSV platform in [Rennes](https://www.youtube.com/watch?v=FPVHDXOOg88) (France)*
 
 ![PythonOCC Vizualization](doc/images/tabbyocc.png)
-*OSV STEP file vizualisation with [pythonocc](http://www.pythonocc.org/)  *
+*OSV STEP file vizualisation with [pythonocc](http://www.pythonocc.org/)*
 
 # For installing pythonocc from anaconda
 
