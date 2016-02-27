@@ -39,6 +39,15 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ### GIS 
 
+### Geolocation 
+
+### Smart Grid 
+
+[Flexible Smart Grid Co-Simulation Framework in Python](http://mosaik.offis.de/)
+
+[PyPower : Solves power flow and optimal power flow problems](https://pypi.python.org/pypi/PYPOWER/4.0.1)
+
+
 ## Other related projects 
 
 [Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
