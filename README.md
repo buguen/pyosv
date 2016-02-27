@@ -1,4 +1,12 @@
-# Information and Tools around Open Source Vehicle (OSV) 
+# Purpose
+
+The purpose of this git repository is to gather **information and tools** related to the Open Source Vehicle 
+
+It is also about whatever could be built around this platform, in an as large as possible collaborative endeavour. 
+
+Feel free to fork, and to pull request, whatever you think could be related or useful .
+
+# Around Open Source Vehicle (OSV) 
 
 [Open Source Vehicle : Start building it](https://vimeo.com/77204604)
 
