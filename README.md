@@ -51,7 +51,13 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Tizen The Os of Everything](https://www.tizen.org/fr)
 
-### V2V Communication
+### V2V Communications
+
+### Vehicular Networks 
+
+[La dissémination de contenus dans les réseaux véhiculaires (Thèse F.Mezghani) ](https://oatao.univ-toulouse.fr/14471/1/Mezghani_Farouk_INPT.pdf)
+
+[SAFESPOT Project](http://www.safespot-eu.org/)
 
 ### Sensors
 
@@ -65,6 +71,7 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [PyPower : Solves power flow and optimal power flow problems](https://pypi.python.org/pypi/PYPOWER/4.0.1)
 
+### Autonomous Vehicle
 
 ## Other related projects 
 
