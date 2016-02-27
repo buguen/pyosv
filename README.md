@@ -13,6 +13,7 @@
 conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ![Git for Hardware](doc/images/git.png)
+
 *Let's try git for open hardware !* 
 
 
