@@ -1,5 +1,6 @@
 # Python tools for Open Source Vehicle (OSV) 
 
+![Quelle est l'avenir de la mobilité ?][https://drive.google.com/file/d/0B8jNl3xrTl3jdUNBQU9TOVFtNTQ/view?ts=56ae565f]
 ![OSV Rennes](doc/images/TabbyRennes.png)
 ![Git for Hardware](doc/images/git.png)
 ![Electric Vehicle](doc/images/AC-synoptic.png)
