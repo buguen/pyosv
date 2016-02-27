@@ -20,3 +20,13 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 [Data Exchange with ISO 10303](http://stepcode.org)
 
 [Battery Winston LiFePO4](http://www.ev-power.eu/LiFeYPO4-batteries-12V-1-1/)
+
+[Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
+
+[OpenXc Platform](http://openxcplatform.com/)
+
+[La Fonderie Car](https://lafonderie-idf.fr/fonderie-car/)
+
+[CANtact](http://linklayer.github.io/cantact/)
+
+[Welcome to the era of open source cars (Ars Technica Sep 15 2015) ](http://arstechnica.com/cars/2015/09/open-source-design-is-changing-the-way-we-make-cars/)
