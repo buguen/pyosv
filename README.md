@@ -91,11 +91,13 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [CANtact](http://linklayer.github.io/cantact/)
 
-## News 
+## In The News 
 
 [Welcome to the era of open source cars (Ars Technica Sep 15 2015) ](http://arstechnica.com/cars/2015/09/open-source-design-is-changing-the-way-we-make-cars/)
 
 [Electric and Hybrid Vehicles / TNYT chronology](http://topics.nytimes.com/top/reference/timestopics/subjects/e/electric_vehicles/index.html?&inline=nyt-classifier)
+
+[OSVehicle’s Tabby EVO: Build This Open-Source EV in an Hour](http://makezine.com/2015/05/13/osvehicles-tabby-evo-build-open-source-ev-hour/)
 
 
 ## Upcoming Event
