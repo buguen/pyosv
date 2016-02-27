@@ -1,4 +1,4 @@
-# Python tools for Open Source Vehicle (OSV) 
+# Information and Tools around Open Source Vehicle (OSV) 
 
 [Open Source Vehicle : Start building it](https://vimeo.com/77204604)
 ![OSV Rennes](doc/images/TabbyRennes.png)
