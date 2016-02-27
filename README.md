@@ -115,6 +115,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [OSVehicle’s Tabby EVO: Build This Open-Source EV in an Hour](http://makezine.com/2015/05/13/osvehicles-tabby-evo-build-open-source-ev-hour/)
 
+ 
+[Could the auto industry warm to the open source car ? Automotive World Nov 18 2015](http://www.automotiveworld.com/analysis/auto-industry-warm-open-source-car/)
 
 ## Upcoming Event
 
