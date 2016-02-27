@@ -5,6 +5,7 @@ import sys
 
 step_reader = STEPControl_Reader()
 status = step_reader.ReadFile('../stp/TABBY_EVO_step_asm.stp')
+#status = step_reader.ReadFile('../stp/TabbyEvo_4.stp')
 #status = step_reader.ReadFile('../stp/cylinder_block.stp')
 
 if status == IFSelect_RetDone:  # check status
