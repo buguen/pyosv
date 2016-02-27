@@ -1,10 +1,12 @@
 # Python tools for Open Source Vehicle (OSV) 
 
-![Git for Hardware](images/git.png)
+![Git for Hardware](doc/images/git.png)
+![Electric Vehicle](doc/images/AC-synoptic.png)
 
 # Installing pythonocc from anaconda
 
 conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
+
 
  
 # Useful Links and References
@@ -16,4 +18,3 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Data Exchange with ISO 10303](http://stepcode.org)
 
-[Genivi]()
