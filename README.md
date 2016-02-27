@@ -19,7 +19,7 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 
  
-# Useful Links and References
+# Some Links and References
 
 ## OSV 
 
