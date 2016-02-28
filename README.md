@@ -92,13 +92,19 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [PyPower : Solves power flow and optimal power flow problems](https://pypi.python.org/pypi/PYPOWER/4.0.1)
 
-### Autonomous Vehicle
+### Self Driving Vehicle
 
 [TensorFlow : Open Source Software Library for Machine Intelligence ](https://www.tensorflow.org/)
 
 [Theano](http://deeplearning.net/software/theano/)
 
 [Nvidia Automotive](http://www.nvidia.com/object/drive-automotive-technology.html)
+
+### Use Cases
+
+[Puis Viendra l'Uberisation d'Uber (1/2)](http://transportsdufutur.ademe.fr/2015/07/viendra-luberisation-duber.html)
+
+[Puis Viendra l'Uberisation d'Uber (2/2)](http://transportsdufutur.ademe.fr/2015/07/puis-viendra-luberisation-duber.html)
 
 ## Other related projects 
 
@@ -124,3 +130,4 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 ## Upcoming Event
 
 BootCamp OSV 27-28-29 April, [Pôle Numérique Beaulieu](https://campusnumerique.ueb.eu/Rennes_Est.html), Rennes  
+
