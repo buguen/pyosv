@@ -12,3 +12,8 @@ tabby['nodes']=map(lambda x : re.findall(pattern,x),tabby['txt'].values)
 pt = map(lambda x : eval(x),points['txt'].values)
 G = nx.Graph()
 G.add_nodes_from(tabby['#ID'].values)
+du = dict(zip(tabby["#ID"],tabby['nodes']))
+for k in du:
+    for n in du[k]:
+        G.add_edge(k,n)
+

@@ -37,6 +37,7 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ### Mechanics 
 
+[CADquery](http://dcowden.github.io/cadquery/intro.html)
 
 #### Handling STEP files 
 
