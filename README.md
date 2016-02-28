@@ -29,13 +29,15 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
  
 # Some Links and References
 
-## OSV 
-
-### Overview 
+### OSV 
 
 [OSV Vehicle](https://www.osvehicle.com/)
 
-### Mechanics 
+### Mechanics and CAD tools
+
+[OpenCascade](http://www.opencascade.com/)
+
+[pythonocc](http://www.pythonocc.org/)
 
 [CADquery](http://dcowden.github.io/cadquery/intro.html)
 
