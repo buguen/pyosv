@@ -1,12 +1,12 @@
 # Purpose
 
-The purpose of this git repository is to gather **information and tools** related to the Open Source Vehicle 
+The purpose of this git repository is to gather **information and tools** related to the Open Source Vehicle.
 
 It is also about whatever could be built around this platform, in an as large as possible collaborative endeavour. 
 
 Feel free to contribute in forking, and pull requesting, whatever you think could be related or useful .
 
-# Around Open Source Vehicle (OSV) 
+# Open Source Vehicle (OSV) 
 
 [Open Source Vehicle : Start building it](https://vimeo.com/77204604)
 
@@ -40,6 +40,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 [pythonocc](http://www.pythonocc.org/)
 
 [CADquery](http://dcowden.github.io/cadquery/intro.html)
+
+[STEPtools](http://www.steptools.com/library/standard/p21e3_final_review.pptx)
 
 #### Handling STEP files 
 
