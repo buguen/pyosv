@@ -47,6 +47,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [A system for extracting Product Features from CAD Models - A STEP Approach"](http://www.m-hikari.com/ces/ces2008/ces1-4-2008/deshpandeCES1-4-2008.pdf)
 
+[STEP Tools](https://github.com/steptool://github.com/steptools)
+
 ### Energy 
 
 
