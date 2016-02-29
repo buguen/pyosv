@@ -120,11 +120,11 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [CANtact](http://linklayer.github.io/cantact/)
 
-### OSV Aqitaine
+### OSV Aquitaine
 
 [Ampool](http://www.ampool.fr) 
 
-[OSV Aquitaine](http://www.pole-aquinetic.fr/fr/content/osv-aquitaine)
+[Pôle Aquinetic](http://www.pole-aquinetic.fr/fr/content/osv-aquitaine)
 
 [La Tribune 16/09/2015](http://objectifaquitaine.latribune.fr/innovation/2015-09-16/electrique-en-kit-et-open-source-la-voiture-made-in-aquitaine-arrive.html)
 
