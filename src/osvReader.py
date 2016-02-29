@@ -5,7 +5,8 @@ import sys
 
 step_reader = STEPControl_Reader()
 #status = step_reader.ReadFile('../stp/TABBY_EVO_step_asm.stp')
-status = step_reader.ReadFile('../stp/single.stp')
+#status = step_reader.ReadFile('../stp/single.stp')
+status = step_reader.ReadFile('../stp/both.stp')
 #status = step_reader.ReadFile('../stp/tabby2.stp')
 #status = step_reader.ReadFile('../stp/tab2clean.stp')
 #status = step_reader.ReadFile('../stp/example.stp')
