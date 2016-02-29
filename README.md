@@ -120,6 +120,9 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [CANtact](http://linklayer.github.io/cantact/)
 
+
+[OSV Aquitaine](http://www.pole-aquinetic.fr/fr/content/osv-aquitaine)
+
 ## In The News 
 
 [Welcome to the era of open source cars (Ars Technica Sep 15 2015) ](http://arstechnica.com/cars/2015/09/open-source-design-is-changing-the-way-we-make-cars/)
