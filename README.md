@@ -106,6 +106,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ### Use Cases
 
+[Connected Vehicle Cloud : Ericsson](http://archive.ericsson.net/service/internet/picov/get?DocNo=28701-FGD101192)
+
 [Puis Viendra l'Uberisation d'Uber (1/2)](http://transportsdufutur.ademe.fr/2015/07/viendra-luberisation-duber.html)
 
 [Puis Viendra l'Uberisation d'Uber (2/2)](http://transportsdufutur.ademe.fr/2015/07/puis-viendra-luberisation-duber.html)
