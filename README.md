@@ -57,6 +57,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Python-CAN](https://bitbucket.org/hardbyte/python-can)
 
+[CANtact](http://linklayer.github.io/cantact/)
+
 ### Energy 
 
 
@@ -126,7 +128,6 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [La Fonderie Car](https://lafonderie-idf.fr/fonderie-car/)
 
-[CANtact](http://linklayer.github.io/cantact/)
 
 ### OSV Aquitaine
 
