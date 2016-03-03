@@ -43,6 +43,8 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [STEPtools](http://www.steptools.com/library/standard/p21e3_final_review.pptx)
 
+[OSV in Freecad](https://www.youtube.com/watch?v=yPdcFWGrZ8w)
+
 #### Handling STEP files 
 
 [Data Exchange with ISO 10303](http://stepcode.org)
