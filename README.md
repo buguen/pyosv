@@ -51,6 +51,12 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [STEP Tools](https://github.com/steptool://github.com/steptools)
 
+### Controller Area Network 
+
+[CAN Bus](https://en.wikipedia.org/wiki/CAN_bus)
+
+[Python-CAN](https://bitbucket.org/hardbyte/python-can)
+
 ### Energy 
 
 
