@@ -66,6 +66,10 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ![Electric Vehicle](doc/images/AC-synoptic.png)
 
+[David MacKay : A reality check on renewables](https://www.ted.com/talks/david_mackay_a_reality_check_on_renewables)
+
+[David MacKay : Better transport](http://www.withouthotair.com/c20/page_118.shtml)
+
 [Battery Winston LiFePO4](http://www.ev-power.eu/LiFeYPO4-batteries-12V-1-1/)
 
 ### Infotainment 
