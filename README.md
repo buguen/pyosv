@@ -143,6 +143,15 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [La Tribune 16/09/2015](http://objectifaquitaine.latribune.fr/innovation/2015-09-16/electrique-en-kit-et-open-source-la-voiture-made-in-aquitaine-arrive.html)
 
+## FabLabs
+
+[WEVOLVER](https://www.wevolver.com/home/]
+[LABFAB](https://www.labfab.fr/]
+
+## Licenses
+
+[CERN OPEN HARDWARE LICENSE](http://www.ohwr.org/projects/cernohl/wik://www.wevolver.com/home/)
+
 ## In The News 
 
 [Welcome to the era of open source cars (Ars Technica Sep 15 2015) ](http://arstechnica.com/cars/2015/09/open-source-design-is-changing-the-way-we-make-cars/)
