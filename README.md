@@ -63,6 +63,7 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 ### Energy 
 
+[ttery Management System (Li-Ion BMS)](http://liionbms.com/php/about_bms.php)
 
 ![Electric Vehicle](doc/images/AC-synoptic.png)
 
