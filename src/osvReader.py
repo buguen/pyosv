@@ -8,7 +8,7 @@ step_reader = STEPControl_Reader()
 #status = step_reader.ReadFile('../stp/single.stp')
 #status = step_reader.ReadFile('../stp/both.stp')
 #status = step_reader.ReadFile('../stp/part123.stp')
-status  =  step_reader.ReadFile('../stp/roue.stp')
+status  =  step_reader.ReadFile('../stp/wheel.stp')
 #status = step_reader.ReadFile('../stp/tab2clean.stp')
 #status = step_reader.ReadFile('../stp/example.stp')
 #status = step_reader.ReadFile('../stp/TabbyEvo_4.stp')
@@ -26,10 +26,10 @@ else:
     print("Error: can't read file.")
     sys.exit(0)
 
-display, start_display, add_menu, add_function_to_menu = init_display()
-display.DisplayShape(aResShape, update=True)
+#display, start_display, add_menu, add_function_to_menu = init_display()
+#display.DisplayShape(aResShape, update=True)
 
-f = display.View.View().GetObject()
+#f = display.View.View().GetObject()
 
 
 def export_to_PDF(event=None):
