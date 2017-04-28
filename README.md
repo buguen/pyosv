@@ -33,6 +33,9 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [OSV Vehicle](https://www.osvehicle.com/)
 
+http://elinux.org/OSVehicle
+
+
 ### Mechanics and CAD tools
 
 [OpenCascade](http://www.opencascade.com/)
@@ -73,13 +76,15 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Battery Winston LiFePO4](http://www.ev-power.eu/LiFeYPO4-batteries-12V-1-1/)
 
-### Infotainment 
+### Infotainment (IVI)
 
-[Genivi Alliance](http://www.genivi.org/)
-
-[IoTivity](https://blogs.s-osg.org/iotivity-ready-automotive/?utm_source=twitterfeed&utm_medium=twitter)
+[GENIVI Alliance](http://www.genivi.org/)
 
 [Tizen The Os of Everything](https://www.tizen.org/fr)
+
+AGL
+
+[IoTivity](https://blogs.s-osg.org/iotivity-ready-automotive/)
 
 ### V2V Communications
 
@@ -135,6 +140,7 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [La Fonderie Car](https://lafonderie-idf.fr/fonderie-car/)
 
+[LaFabriqueDesMobilites](http://wiki.lafabriquedesmobilites.fr/wiki/VehiculeLibre)
 
 ### OSV Aquitaine
 
@@ -165,7 +171,11 @@ conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
 
 [Skeleton car that is driving open-source design : The Guardian Feb 28 2016](http://www.theguardian.com/business/2016/feb/28/the-innovators-platform-car-thats-driving-open-source-design)
 
-## Upcoming Event
 
-BootCamp OSV 27-28-29 April, [Pôle Numérique Beaulieu](https://campusnumerique.ueb.eu/Rennes_Est.html), Rennes  
+[Community](https://www.reddit.com/r/libreauto/)
+
+## Events
+
+* 2018-03-14 http://www.inout2018.com/en/
+* 2016-04-27 BootCamp OSV 27-28-29 April, [Pôle Numérique Beaulieu](https://campusnumerique.ueb.eu/Rennes_Est.html), Rennes
 
